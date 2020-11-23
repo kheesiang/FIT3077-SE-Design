@@ -1,3 +1,7 @@
+/**
+ * Written by Bee Khee Siang & Aqeel Ahlam Rauf
+ * */
+
 package com.example.cholesterol.Observable;
 
 import android.util.Log;
